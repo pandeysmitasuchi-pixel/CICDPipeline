@@ -43,7 +43,7 @@ E:\Download\CICDFlask/
 
 ### 1️⃣ Fork & Clone
 - Forked the repo: `github.com/mohanDevOps-arch/flask_Practice`
-- Cloned locally into `E:\Download\CICDFlask`
+- Cloned locally into `/Users/SuchiSmita/Downloads/CICDPipeline`
 
 ### 2️⃣ Add Dockerfile
 - Created a Dockerfile to run Flask on port 5000.
